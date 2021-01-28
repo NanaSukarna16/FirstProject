@@ -62,6 +62,9 @@ public class MainActivity extends AppCompatActivity{
                 intent.putExtra("nama_key", txtNama.getText());
                 startActivity(intent);
 
+            //ini komentar
+            //cuma untuk test
+
             }
         });
     }
